@@ -1,6 +1,6 @@
 # Mediocre-City-Demo
 
-Controls
+# Controls
 W,A,S,D movements, 
 SPACE jump, 
 LCM attack, 
